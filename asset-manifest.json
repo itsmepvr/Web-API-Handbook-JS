@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Web-API-Handbook-JS/static/css/main.754454f4.css",
-    "main.js": "/Web-API-Handbook-JS/static/js/main.0e3e55eb.js",
-    "static/js/451.01f2e446.chunk.js": "/Web-API-Handbook-JS/static/js/451.01f2e446.chunk.js",
-    "static/js/411.204b8a64.chunk.js": "/Web-API-Handbook-JS/static/js/411.204b8a64.chunk.js",
-    "static/js/682.b09295de.chunk.js": "/Web-API-Handbook-JS/static/js/682.b09295de.chunk.js",
+    "main.js": "/Web-API-Handbook-JS/static/js/main.ed8b8a47.js",
+    "static/js/451.3ae34c84.chunk.js": "/Web-API-Handbook-JS/static/js/451.3ae34c84.chunk.js",
+    "static/js/411.3c2019c5.chunk.js": "/Web-API-Handbook-JS/static/js/411.3c2019c5.chunk.js",
+    "static/js/682.b242fa87.chunk.js": "/Web-API-Handbook-JS/static/js/682.b242fa87.chunk.js",
     "static/css/745.e7fe4456.chunk.css": "/Web-API-Handbook-JS/static/css/745.e7fe4456.chunk.css",
-    "static/js/745.9d0cf3bf.chunk.js": "/Web-API-Handbook-JS/static/js/745.9d0cf3bf.chunk.js",
-    "static/js/787.126b509a.chunk.js": "/Web-API-Handbook-JS/static/js/787.126b509a.chunk.js",
-    "static/js/236.93c49b91.chunk.js": "/Web-API-Handbook-JS/static/js/236.93c49b91.chunk.js",
+    "static/js/745.ad4f81fb.chunk.js": "/Web-API-Handbook-JS/static/js/745.ad4f81fb.chunk.js",
+    "static/js/787.2b8f40e7.chunk.js": "/Web-API-Handbook-JS/static/js/787.2b8f40e7.chunk.js",
+    "static/js/236.e7337ecc.chunk.js": "/Web-API-Handbook-JS/static/js/236.e7337ecc.chunk.js",
     "index.html": "/Web-API-Handbook-JS/index.html",
     "main.754454f4.css.map": "/Web-API-Handbook-JS/static/css/main.754454f4.css.map",
-    "main.0e3e55eb.js.map": "/Web-API-Handbook-JS/static/js/main.0e3e55eb.js.map",
-    "451.01f2e446.chunk.js.map": "/Web-API-Handbook-JS/static/js/451.01f2e446.chunk.js.map",
-    "411.204b8a64.chunk.js.map": "/Web-API-Handbook-JS/static/js/411.204b8a64.chunk.js.map",
-    "682.b09295de.chunk.js.map": "/Web-API-Handbook-JS/static/js/682.b09295de.chunk.js.map",
+    "main.ed8b8a47.js.map": "/Web-API-Handbook-JS/static/js/main.ed8b8a47.js.map",
+    "451.3ae34c84.chunk.js.map": "/Web-API-Handbook-JS/static/js/451.3ae34c84.chunk.js.map",
+    "411.3c2019c5.chunk.js.map": "/Web-API-Handbook-JS/static/js/411.3c2019c5.chunk.js.map",
+    "682.b242fa87.chunk.js.map": "/Web-API-Handbook-JS/static/js/682.b242fa87.chunk.js.map",
     "745.e7fe4456.chunk.css.map": "/Web-API-Handbook-JS/static/css/745.e7fe4456.chunk.css.map",
-    "745.9d0cf3bf.chunk.js.map": "/Web-API-Handbook-JS/static/js/745.9d0cf3bf.chunk.js.map",
-    "787.126b509a.chunk.js.map": "/Web-API-Handbook-JS/static/js/787.126b509a.chunk.js.map",
-    "236.93c49b91.chunk.js.map": "/Web-API-Handbook-JS/static/js/236.93c49b91.chunk.js.map"
+    "745.ad4f81fb.chunk.js.map": "/Web-API-Handbook-JS/static/js/745.ad4f81fb.chunk.js.map",
+    "787.2b8f40e7.chunk.js.map": "/Web-API-Handbook-JS/static/js/787.2b8f40e7.chunk.js.map",
+    "236.e7337ecc.chunk.js.map": "/Web-API-Handbook-JS/static/js/236.e7337ecc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.754454f4.css",
-    "static/js/main.0e3e55eb.js"
+    "static/js/main.ed8b8a47.js"
   ]
 }
