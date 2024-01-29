@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Web-API-Handbook-JS/static/css/main.754454f4.css",
-    "main.js": "/Web-API-Handbook-JS/static/js/main.ed8b8a47.js",
+    "main.css": "/Web-API-Handbook-JS/static/css/main.d656f5c1.css",
+    "main.js": "/Web-API-Handbook-JS/static/js/main.bd55031c.js",
     "static/js/451.3ae34c84.chunk.js": "/Web-API-Handbook-JS/static/js/451.3ae34c84.chunk.js",
     "static/js/411.3c2019c5.chunk.js": "/Web-API-Handbook-JS/static/js/411.3c2019c5.chunk.js",
     "static/js/682.b242fa87.chunk.js": "/Web-API-Handbook-JS/static/js/682.b242fa87.chunk.js",
@@ -10,8 +10,8 @@
     "static/js/787.2b8f40e7.chunk.js": "/Web-API-Handbook-JS/static/js/787.2b8f40e7.chunk.js",
     "static/js/236.e7337ecc.chunk.js": "/Web-API-Handbook-JS/static/js/236.e7337ecc.chunk.js",
     "index.html": "/Web-API-Handbook-JS/index.html",
-    "main.754454f4.css.map": "/Web-API-Handbook-JS/static/css/main.754454f4.css.map",
-    "main.ed8b8a47.js.map": "/Web-API-Handbook-JS/static/js/main.ed8b8a47.js.map",
+    "main.d656f5c1.css.map": "/Web-API-Handbook-JS/static/css/main.d656f5c1.css.map",
+    "main.bd55031c.js.map": "/Web-API-Handbook-JS/static/js/main.bd55031c.js.map",
     "451.3ae34c84.chunk.js.map": "/Web-API-Handbook-JS/static/js/451.3ae34c84.chunk.js.map",
     "411.3c2019c5.chunk.js.map": "/Web-API-Handbook-JS/static/js/411.3c2019c5.chunk.js.map",
     "682.b242fa87.chunk.js.map": "/Web-API-Handbook-JS/static/js/682.b242fa87.chunk.js.map",
@@ -21,7 +21,7 @@
     "236.e7337ecc.chunk.js.map": "/Web-API-Handbook-JS/static/js/236.e7337ecc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.754454f4.css",
-    "static/js/main.ed8b8a47.js"
+    "static/css/main.d656f5c1.css",
+    "static/js/main.bd55031c.js"
   ]
 }
