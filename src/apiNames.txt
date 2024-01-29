@@ -1,0 +1,60 @@
+DOM (Document Object Model) API:
+
+Allows manipulation and interaction with HTML and XML documents.
+XMLHttpRequest (XHR) API:
+
+Used for making HTTP requests to a server, allowing you to retrieve data from or send data to a server asynchronously.
+Fetch API:
+
+Provides a more modern alternative to XMLHttpRequest for making HTTP requests. It returns Promises and is designed to be more flexible and powerful.
+Geolocation API:
+
+Enables obtaining the user's geographical location information.
+Canvas API:
+
+Allows dynamic rendering of 2D graphics on a webpage.
+WebGL API:
+
+Provides a 3D graphics API for the web, allowing rendering of 3D graphics within the browser.
+Web Storage API:
+
+Provides mechanisms for storing data on the client side, including localStorage and sessionStorage.
+Web Workers API:
+
+Enables running scripts in the background, allowing for parallel execution and improved performance.
+Web Audio API:
+
+Allows manipulating and processing audio in the browser.
+IndexedDB API:
+
+Provides a way to store large amounts of structured data on the client side.
+Notification API:
+
+Allows displaying system notifications to the user.
+Battery Status API:
+
+Provides information about the battery status of the device.
+Pointer Events API:
+
+Handles input from various pointing devices, like mouse, touch, and pen.
+Web Speech API:
+
+Enables speech recognition and synthesis.
+MediaDevices API:
+
+Allows access to connected media devices, like cameras and microphones.
+File API:
+
+Provides access to the file system on the client side.
+WebRTC API:
+
+Enables real-time communication between browsers, including video and audio chat.
+Service Worker API:
+
+Allows the creation of service workers, which can intercept and handle network requests, enabling features like offline support.
+WebSockets API:
+
+Enables bi-directional communication between the browser and the server over a WebSocket connection.
+Payment Request API:
+
+Facilitates handling online payments.

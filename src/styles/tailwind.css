@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #eee;
+}
+
+.navItem {
+    @apply text-lg font-bold mx-2 cursor-pointer hover:text-blue-600 md:p-4 py-2 block hover:text-red-800
+}
+
+.active {
+    @apply text-red-500
+}
+
+.apiListName {
+    @apply px-5 py-2 text-lg font-bold cursor-pointer hover:text-blue-600
+}
+
+.api_details_button {
+    @apply px-5 py-2 rounded bg-blue-500 text-white font-bold cursor-pointer hover:bg-blue-600
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+body.dark {
+    background-color: #1a202c;
+    color: #cbd5e0;
+}
+
+body.dark code {
+    color: #a3bffa;
+}
+
+/* Additional styles for code formatting */
+pre {
+    white-space: pre-wrap;
+}
+
+code {
+    display: block;
+    padding: 1em;
+    overflow-x: auto;
+    background-color: black;
+    color: white;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+    width: 8px;
+    /* Set the width of the scrollbar */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #949393;
+    /* Color of the thumb */
+    border-radius: 1px;
+    /* Rounded corners of the thumb */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+    background-color: #ccc;
+    /* Color of the track */
+}
