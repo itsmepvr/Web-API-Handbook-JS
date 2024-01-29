@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Web-API-Handbook-JS/static/css/main.d656f5c1.css",
-    "main.js": "/Web-API-Handbook-JS/static/js/main.bd55031c.js",
+    "main.css": "/Web-API-Handbook-JS/static/css/main.ea79838a.css",
+    "main.js": "/Web-API-Handbook-JS/static/js/main.3aab3f2a.js",
     "static/js/451.3ae34c84.chunk.js": "/Web-API-Handbook-JS/static/js/451.3ae34c84.chunk.js",
     "static/js/411.3c2019c5.chunk.js": "/Web-API-Handbook-JS/static/js/411.3c2019c5.chunk.js",
     "static/js/682.b242fa87.chunk.js": "/Web-API-Handbook-JS/static/js/682.b242fa87.chunk.js",
     "static/css/745.e7fe4456.chunk.css": "/Web-API-Handbook-JS/static/css/745.e7fe4456.chunk.css",
-    "static/js/745.ad4f81fb.chunk.js": "/Web-API-Handbook-JS/static/js/745.ad4f81fb.chunk.js",
+    "static/js/745.15b04ea5.chunk.js": "/Web-API-Handbook-JS/static/js/745.15b04ea5.chunk.js",
     "static/js/787.2b8f40e7.chunk.js": "/Web-API-Handbook-JS/static/js/787.2b8f40e7.chunk.js",
     "static/js/236.e7337ecc.chunk.js": "/Web-API-Handbook-JS/static/js/236.e7337ecc.chunk.js",
     "index.html": "/Web-API-Handbook-JS/index.html",
-    "main.d656f5c1.css.map": "/Web-API-Handbook-JS/static/css/main.d656f5c1.css.map",
-    "main.bd55031c.js.map": "/Web-API-Handbook-JS/static/js/main.bd55031c.js.map",
+    "main.ea79838a.css.map": "/Web-API-Handbook-JS/static/css/main.ea79838a.css.map",
+    "main.3aab3f2a.js.map": "/Web-API-Handbook-JS/static/js/main.3aab3f2a.js.map",
     "451.3ae34c84.chunk.js.map": "/Web-API-Handbook-JS/static/js/451.3ae34c84.chunk.js.map",
     "411.3c2019c5.chunk.js.map": "/Web-API-Handbook-JS/static/js/411.3c2019c5.chunk.js.map",
     "682.b242fa87.chunk.js.map": "/Web-API-Handbook-JS/static/js/682.b242fa87.chunk.js.map",
     "745.e7fe4456.chunk.css.map": "/Web-API-Handbook-JS/static/css/745.e7fe4456.chunk.css.map",
-    "745.ad4f81fb.chunk.js.map": "/Web-API-Handbook-JS/static/js/745.ad4f81fb.chunk.js.map",
+    "745.15b04ea5.chunk.js.map": "/Web-API-Handbook-JS/static/js/745.15b04ea5.chunk.js.map",
     "787.2b8f40e7.chunk.js.map": "/Web-API-Handbook-JS/static/js/787.2b8f40e7.chunk.js.map",
     "236.e7337ecc.chunk.js.map": "/Web-API-Handbook-JS/static/js/236.e7337ecc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d656f5c1.css",
-    "static/js/main.bd55031c.js"
+    "static/css/main.ea79838a.css",
+    "static/js/main.3aab3f2a.js"
   ]
 }
