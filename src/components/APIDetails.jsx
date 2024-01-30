@@ -90,7 +90,7 @@ const APIDetails = ({ apiNames, apiKey, handleEvent }) => {
     }
 
     return (
-        <div className="mx-auto max-w-4xl px-4 py-2 sm:px-6 sm:py-2 lg:px-8 lg:py-4 flex-auto mt-4 mb-4 bg-white rounded">
+        <div className="mx-0 sm:mx-auto max-w-4xl px-4 py-2 sm:px-6 sm:py-4 lg:px-8 lg:py-6 flex-auto mt-4 mb-4 bg-white rounded">
             {apiContent}
             <br></br>
             <hr></hr>
