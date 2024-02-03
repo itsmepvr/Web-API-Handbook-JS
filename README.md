@@ -1,6 +1,6 @@
 # Web API Handbook - JavaScript
 
-[Link](https://itsmepvr.github.io/Web-API-Handbook-Js)
+[Link](https://itsmepvr.github.io/Web-API-Handbook-JS/)
 
 This project is a web application that provides information about various Built-In Web APIs in JavaScript. It includes a comprehensive list of Web APIs along with sample code snippets for learning and testing purposes.
 
